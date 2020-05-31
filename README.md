@@ -24,4 +24,4 @@ Spring Boot Spring MVC PostGre SQL
 Бурлака Данило  
 Веселовський Андрій
 
-Сайт проекту:  
+
